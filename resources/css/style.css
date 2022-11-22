@@ -27,3 +27,8 @@ h3 {
     font-size: 1.3125rem;
     color: gray;
 }
+
+footer {
+    display: flex;
+    justify-content: flex-end;
+}
